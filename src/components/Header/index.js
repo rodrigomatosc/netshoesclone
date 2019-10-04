@@ -4,6 +4,7 @@ import { Container } from './styles';
 import logo from '../../assets/images/logo.svg';
 
 export default function Header() {
+  console.log('oi');
   return (
     <Container>
       <Link to="/">
